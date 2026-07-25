@@ -1,0 +1,9 @@
+﻿# Compiled binaries
+*.exe
+*.out
+*.o
+mystring
+
+# OS
+Thumbs.db
+desktop.ini
