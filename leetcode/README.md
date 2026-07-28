@@ -5,3 +5,4 @@
 | 1672 | Richest Customer Wealth | int** vs 2D array | Jagged pointers vs contiguous DMA buffers |
 | 1470 | Shuffle the Array | Index arithmetic, bit-packing follow-up | Interleaving two sample streams |
 | 1512 | Number of Good Pairs | Frequency table, O(n) | Bounded input range → static lookup table, no heap |
+| 2011 | Final Value of Variable | Single-char discrimination | Parsing a command stream, opcode dispatch |
