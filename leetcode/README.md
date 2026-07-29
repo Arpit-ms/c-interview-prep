@@ -7,3 +7,4 @@
 | 1512 | Number of Good Pairs | Frequency table, O(n) | Bounded input range → static lookup table, no heap |
 | 2011 | Final Value of Variable | Single-char discrimination | Parsing a command stream, opcode dispatch |
 | 1108 | Defanging an IP Address | String growth, malloc sizing | Building a TX buffer; why you size before you copy |
+| 771 | Jewels and Stones | Lookup table, O(m+n) | Bounded key space → static table, deterministic |
